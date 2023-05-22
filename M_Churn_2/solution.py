@@ -200,7 +200,7 @@ def pr_curve(
 
 def specificity_recall_from_sorted(y_true):
     """
-    Calculates precision and recall values from an array of ground truth labels.
+    Calculates specificity and recall values from an array of ground truth labels.
 
     Parameters
     ----------
